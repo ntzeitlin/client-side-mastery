@@ -6,7 +6,7 @@ In this chapter, you are going to move all of your functions into a separate mod
 
 At the end of this chapter you should be able to...
 
-* Describe what a JavaScript module is, and why developers odularize their code.
+* Describe what a JavaScript module is, and why developers modularize their code.
 * Understand that each module does not automatically have access to code in other modules.
 * Understand that for modules to share code, they must export and import their code.
 * Understand that a module can only export one thing.
